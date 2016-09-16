@@ -1,0 +1,50 @@
+The Shawshank Redemption
+1994
+Crime
+Tim Robbins
+9.3
+No Country for Old Men
+2007
+Crime
+Tommy Lee Jones
+8.2
+The Dark Knight Rises
+2012
+Action
+Christian Bale
+8.9
+Inception
+2010
+Action
+Leonardo DiCaprio
+8.8
+The Avengers
+2012
+Action
+Robert Downey Jr.
+8.6
+Fight Club
+1999
+Drama
+Brad Pitt
+8.9
+The Usual Suspects
+1995
+Crime
+Kevin Spacey
+8.7
+Vertigo
+1958
+Mystery
+James Stewart
+8.5
+Life
+2009
+Documentary
+David Attenborough
+9.4
+Memento
+2000
+Drama
+Guy Pearce
+8.6
