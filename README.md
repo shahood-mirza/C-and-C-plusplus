@@ -1,4 +1,4 @@
-# C-and-C++
+# C and C++
 
 This repository contains my C/C++ applications which are both personal projects and applications designed to teach new programmers about the basics of C programming.
 
